@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Italic writing*
+
+_Italic writing_
+
+
+**Bold writing**
+
+__Bold writing__
+
+__Combined Bold and _Italic___
